@@ -1,0 +1,6 @@
+{
+  "name": "AstraConsult Agent",
+  "description": "AI企业咨询报告生成Agent工作流程可视化",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
